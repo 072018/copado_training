@@ -4,5 +4,10 @@
         <members>Account.Copado_External_ID__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>Admin</members>
+        <members>Standard</members>
+        <name>Profile</name>
+    </types>
     <version>42.0</version>
 </Package>
